@@ -35,7 +35,7 @@
      "teksChat" : "Gada menu",
      "totalForward" : 1000000,
      "gamewaktu": 60,
-	 "limitCount": 31,
+	 "limitCount": 30,
 	 "gcount": {
 		"prem": 30,
 		"user": 20
